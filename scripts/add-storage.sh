@@ -1,5 +1,4 @@
 #!/bin/bash
-# For educational purposes : http://linux.goffinet.org/
 # This script attach a disk to a live guest
 guest=$1
 device=$2
