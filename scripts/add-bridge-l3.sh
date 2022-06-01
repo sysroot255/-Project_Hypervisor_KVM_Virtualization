@@ -1,5 +1,4 @@
 #!/bin/bash
-# For educational purposes : http://linux.goffinet.org/
 # This script create a L3 bridge for hetzner IPv4 public ranges
 name="${1}"
 bridge="$name"
