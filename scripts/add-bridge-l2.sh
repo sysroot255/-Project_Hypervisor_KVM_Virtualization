@@ -1,5 +1,5 @@
 #!/bin/bash
-# For educational purposes : http://linux.goffinet.org/
+
 # This script create a L2 bridge that connects a physical NIC
 name=${1}
 bridge=$name
