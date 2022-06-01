@@ -1,5 +1,4 @@
 #!/bin/bash
-# For educational purposes : http://linux.goffinet.org/
 # This script create an isolated, a simple nat without dhcp 
 # or  a nat/ipv6 bridge <name> <type>
 name=${1}
