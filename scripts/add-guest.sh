@@ -1,9 +1,7 @@
 #!/bin/bash
 ## This script import and launch minimal KVM images with a text console         ##
-## First download all the qcow2 images on https://download.goffinet.org/kvm/         ##
 ## Usage : bash define-guest.sh <name> <image>                                  ##
 ## Reset root password with the procedure :                                     ##
-## https://linux.goffinet.org/06-02-demarrage-du-systeme-linux/#5-password-recovery##
 ##################################################################################
 ## Please check all the variables
 # First parmater as name
